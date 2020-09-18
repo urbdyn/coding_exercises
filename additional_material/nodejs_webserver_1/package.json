@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-webserver-1",
+  "version": "1.4.2",
+  "description": "API Server for Product X",
+  "main": "index",
+  "bin": "index.js",
+  "pkg": {
+    "scripts": [
+      "index.js"
+    ],
+    "targets": [
+      "node12-linux-x86_64"
+    ]
+  },
+  "scripts": {
+    "example": "node ./index.js configs/dev_conf.json",
+    "pkg": "pkg ."
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "pkg": "^4.4.9"
+  }
+}
