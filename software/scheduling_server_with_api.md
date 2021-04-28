@@ -29,7 +29,6 @@ Feel free to use open source libraries in building this application.
 Provide a Github repository which contains your Lunch Buddy server application as specified above.
 To avoid having to deal with user passwords and logins, this service will run in front of a reverse proxy that will handle authentication via the company SSO.
 All requests will have a `USER_NAME` header and a `USER_EMAIL` header which you can identify them with.
-Also, remember, MegaCorp has 500,000 users around the world and as such your application should support such a load.
 
 ## Additional Details
 
