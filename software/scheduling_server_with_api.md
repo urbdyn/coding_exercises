@@ -1,4 +1,4 @@
-# Coding Exercise: API for Lunch Buddies
+# Coding Exercise: API Server for Lunch Buddies
 
 > "One of the very nicest things about life is the way we must regularly stop whatever it is we are doing and devote our attention to eating." ― Luciano Pavarotti
 
