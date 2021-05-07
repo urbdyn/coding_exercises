@@ -4,10 +4,10 @@
 
 ## Overview
 
-Your (perhaps crazy) boss has decided that the million todo app's in the world just aren't cutting it and so you're team is going to make another one.
+Your (perhaps crazy) boss has decided that the million todo app's in the world just aren't cutting it and so your team is going to make another one.
 "This is a daring project sure to change the world" your boss says, though your opinion probably differs.
 Anyways, some of your team uses iPhones while others use Android phones, so of course you'll need to support both!
-The company you work at is a Vue.js shop and so you've been tasked to build the first iteration of the MVP in Vue.js.
+The company you work at is a Vue.js shop and so you've been tasked to build the first iteration of the MVP in Vue.js Native.
 The expected functionality for this first iterations is:
 
 1. A user can can add new todos with a name for each.
