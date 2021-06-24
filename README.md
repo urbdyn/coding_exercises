@@ -34,6 +34,7 @@ Here are a few things to keep in mind as you do any of these exercises:
 ### Software
 
 * [API Server for Lunch Buddies](software/scheduling_server_with_api.md)
+* [API Server for Lunch Buddies (Simple)](software/scheduling_server_with_api_simple.md)
 * [Java API for Log Backup](software/java_api_log_backup.md)
 * [UI with Cards and Swim Lanes](software/ui_swimlane_board.md)
 
