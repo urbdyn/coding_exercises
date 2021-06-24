@@ -29,6 +29,7 @@ Provide a Github repository which contains your Lunch Buddy server application a
 To avoid having to deal with user passwords and logins, this service will run in front of a reverse proxy that will handle authentication via the company SSO.
 All requests will have a `USER_NAME` header and a `USER_EMAIL` header which you can identify them with.
 The application should have 10 default users which can be used to demo it.
+Note that bookings are for days, not times! This means that you just need to record that "users A and B are having lunch on YYYY-MM-DD" (ex: 2021-06-24). 
 
 ## Additional Details
 
